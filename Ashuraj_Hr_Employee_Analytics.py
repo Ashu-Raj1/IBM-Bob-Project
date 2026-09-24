@@ -1,6 +1,6 @@
 """
 HR Employee Analytics Dashboard
-Author: Priya Sahu
+Author: Ashu Raj
 Description: Complete descriptive analytics dashboard for HR Employee Data
              including data understanding, cleaning, transformation, KPI calculation,
              visualizations, and business insights.
